@@ -28,9 +28,7 @@ jobs:
         cat >$first_name-$last_name/$first_name-$last_name.md <<EOL
         ---
         id: "$crm_id"
-         
         qualifications: ""
-        
         quote: ""
         quoteAuthor: ""
         ---
@@ -65,7 +63,7 @@ jobs:
         git add $first_name-$last_name/*
         git add $first_name-$last_name/Images/*
         git commit -m "Created new markdown profile for $first_name $last_name"
-        git push --set-upstream origin add-profile-$first_name-$last_name
+        git push origin add-profile-$first_name-$last_name
         hub pull-request --no-edit
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
