@@ -2,7 +2,7 @@ name: Trigger-DevOps-Build
 on:
   push:
     branches:
-    - main
+    - main1
     paths-ignore:
     - '.github/assign-by-files.yml'
   schedule:
