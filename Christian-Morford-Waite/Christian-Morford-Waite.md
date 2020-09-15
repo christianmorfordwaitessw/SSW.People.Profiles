@@ -1,8 +1,10 @@
 ---
-id: "888b34a7-f2e3-e911-9674-00155d012c95"
-qualifications: ""
-quote: ""
-quoteAuthor: ""
+id: "a77dd9ef-ebe3-e911-9674-00155d012c95"
+
+qualifications:  "Bachelor of Computing"
+
+quote:  "There's a way to do it better - find it."
+quoteAuthor: "Thomas A. Edison"
 ---
 [[imgBadge]]
 | ![ITIL.png](../badges/Business-itil.png) 
