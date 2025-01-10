@@ -187,7 +187,7 @@ This is a warning message.
 :::
 
 ::: img-small  
-![Small image](./Images/Bio/cat_computer.jpg)  
+![Small image](./Images/Bio/cat_computer.jpg#avatar)  
 :::
 
 :::img-badge  
