@@ -169,6 +169,13 @@ _italic_ or _italic_
 &nbsp;
 
 ### Output:
+![Large image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-large-->
+
+![Medium image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-medium-->
+
+![Small image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-small-->
+
+![Microsoft certification](../badges/Certification-microsoft-professional.jpg)<!--rehype:class=img-badge-->
 
 ![Large image](./Images/Bio/cat_computer.jpg){.img-large}
 
