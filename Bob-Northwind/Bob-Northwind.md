@@ -169,31 +169,24 @@ _italic_ or _italic_
 &nbsp;
 
 ### Output:
-![Large image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-large-->
 
-![Medium image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-medium-->
+:::img-large
+This is a large image container.
+:::
 
-![Small image](./Images/Bio/cat_computer.jpg)<!--rehype:class=img-small-->
+:::warning
+This is a warning message.
+:::
 
-![Microsoft certification](../badges/Certification-microsoft-professional.jpg)<!--rehype:class=img-badge-->
-
-![Large image](./Images/Bio/cat_computer.jpg){.img-large}
-
-![Medium image](./Images/Bio/cat_computer.jpg){.img-medium}
-
-![Small image](./Images/Bio/cat_computer.jpg){.img-small}
-
-![Microsoft certification](../badges/Certification-microsoft-professional.jpg){.img-badge}
-
-:::img-large  
+::: img-large  
 ![Large image](./Images/Bio/cat_computer.jpg)  
 :::
 
-:::img-medium  
+::: img-medium  
 ![Medium image](./Images/Bio/cat_computer.jpg)  
 :::
 
-:::img-small  
+::: img-small  
 ![Small image](./Images/Bio/cat_computer.jpg)  
 :::
 
