@@ -149,66 +149,40 @@ _italic_ or _italic_
 ### Input:
 
 ```
-::: img-large
-![Large image](./Images/Bio/cat_computer.jpg)
-:::
+[[imgLg]]
+| ![Large image](./Images/Bio/cat_computer.jpg)
 
-::: img-medium
-![Medium image](./Images/Bio/cat_computer.jpg)
-:::
+[[imgMd]]
+| ![Medium image](./Images/Bio/cat_computer.jpg)
 
-::: img-small
-![Small image](./Images/Bio/cat_computer.jpg)
-:::
+[[imgSm]]
+| ![Small image](./Images/Bio/cat_computer.jpg)
 
-::: img-badge
-![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
-:::
+[[imgBadge]]
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
+
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 ```
 
 &nbsp;
 
 ### Output:
 
-:::img-large
-This is a large image container.
-:::
+[[imgLg]]
+| ![Large image](./Images/Bio/cat_computer.jpg)
 
-:::warning
-This is a warning message.
-:::
+[[imgMd]]
+| ![Medium image](./Images/Bio/cat_computer.jpg)
 
-::: img-large  
-![Large image](./Images/Bio/cat_computer.jpg)  
-:::
+[[imgSm]]
+| ![Small image](./Images/Bio/cat_computer.jpg)
 
-::: img-medium  
-![Medium image](./Images/Bio/cat_computer.jpg)  
-:::
+[[imgBadge]]
+| ![Microsoft certification](../badges/Certification-microsoft-professional.jpg)
 
-::: img-small  
-![Small image](./Images/Bio/cat_computer.jpg#avatar)  
-:::
-
-:::img-badge  
-![Microsoft certification](../badges/Certification-microsoft-professional.jpg)  
-:::
-
-::: img-large  
-![Large image](./Images/Bio/cat_computer.jpg)  
-:::
-
-::: img-medium  
-![Medium image](./Images/Bio/cat_computer.jpg)  
-:::
-
-::: img-small  
-![Small image](./Images/Bio/cat_computer.jpg)  
-:::
-
-::: img-badge  
-![Microsoft certification](../badges/Certification-microsoft-professional.jpg)  
-:::
+[[imgBadge]]
+| ![](../badges/Certification-poty-finalist-education.svg)
 
 &nbsp;
 
