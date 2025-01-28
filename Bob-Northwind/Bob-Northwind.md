@@ -169,6 +169,14 @@ _italic_ or _italic_
 
 ### Output:
 
+:::imgSm
+![Large image](./Images/Bio/cat_computer.jpg)
+:::
+
+:::imgSm  
+![Large image](./Images/Bio/cat_computer.jpg)  
+:::  
+
 [[imgLg]]
 | ![Large image](./Images/Bio/cat_computer.jpg)
 
